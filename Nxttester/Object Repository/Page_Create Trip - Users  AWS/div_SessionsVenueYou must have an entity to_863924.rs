@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SessionsVenueYou must have an entity to_863924</name>
+   <tag></tag>
+   <elementGuidId>1c410812-da03-412d-988d-f9369ae66219</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[5]/main/div[2]/div/div[2]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ab578c45-235f-428c-8c4b-ed75c8b37031</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-col w-full</value>
+      <webElementGuid>aa212890-b261-4233-a935-a73b91a2def9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SessionsVenueYou must have an entity to select sessions.</value>
+      <webElementGuid>757f03cf-6fe2-4bbd-92e7-e43b8d75986e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col w-full&quot;]/div[@class=&quot;flex flex-col w-full&quot;]/main[@class=&quot;flex&quot;]/div[@class=&quot;mt-s60 w-full duration-200 transition-all ml-auto content-width-minus-sidebar px-2 sm:px-8 pb-8&quot;]/div[1]/div[@class=&quot;flex flex-col w-full&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 divide-y md:divide-y-0 divide-[#4C4C4C] justify-between lg:w-[890px] gap-y-12 md:gap-y-0 md:gap-x-4 text-white&quot;]/div[@class=&quot;flex flex-col w-full&quot;]</value>
+      <webElementGuid>64498f9f-c2c3-41c9-ba2c-f2a60bc9fc98</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[5]/main/div[2]/div/div[2]/div/div[2]</value>
+      <webElementGuid>fe2d69c1-4fe8-40a9-8d5e-12307fc306a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div[2]</value>
+      <webElementGuid>32a9b9dd-76f9-45a8-af12-0113b23215ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SessionsVenueYou must have an entity to select sessions.' or . = 'SessionsVenueYou must have an entity to select sessions.')]</value>
+      <webElementGuid>3bc72677-709f-4139-82d2-bb0ea0e6cc3a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

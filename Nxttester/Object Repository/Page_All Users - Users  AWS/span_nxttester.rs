@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_nxttester</name>
+   <tag></tag>
+   <elementGuidId>1315a2a2-a86e-4290-8036-6b7705dfb96c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[5]/header/div/div[3]/div[3]/div/button/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>41e460a6-f7b6-46c2-99b6-942630f3fa45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Text_root__M6tno font-normal capitalize hidden sm:inline sm:w-[70px] truncate text-left</value>
+      <webElementGuid>fb346bec-8f57-4fa0-ab32-286ef93166da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>nxttester</value>
+      <webElementGuid>5a1510e6-756d-4b68-82ba-3f81a0198456</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col w-full&quot;]/div[@class=&quot;flex flex-col w-full&quot;]/header[@class=&quot;bg-c-gray-700 z-20 text-white fixed top-0 inset-x-0 h-[66px] print:hidden&quot;]/div[@class=&quot;flex justify-end px-2 xs:px-3 sm:px-s30 py-2 relative h-full items-center&quot;]/div[@class=&quot;flex justify-end items-center h-[40px] z-[1] space-x-s5 w-1/2&quot;]/div[3]/div[@class=&quot;Dropdown_container__5LCLe h-[40px]&quot;]/button[@class=&quot;Button_root__0RbKd Button_secondary__FdhUX Button_small__VH+y2 h-[40px]&quot;]/div[@class=&quot;flex items-center space-x-s10 mr-s10 w-12 sm:w-32&quot;]/span[@class=&quot;Text_root__M6tno font-normal capitalize hidden sm:inline sm:w-[70px] truncate text-left&quot;]</value>
+      <webElementGuid>afb53326-5dc4-4d35-a770-99850f84bfee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[5]/header/div/div[3]/div[3]/div/button/div/span</value>
+      <webElementGuid>6c1499e8-a0c1-4f8c-b648-b99aa5b39a5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/span</value>
+      <webElementGuid>80be9efa-00cf-4978-8afe-a248014f6628</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'nxttester' or . = 'nxttester')]</value>
+      <webElementGuid>68a3a468-f0ec-49aa-b310-5da9ffc1dcc4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

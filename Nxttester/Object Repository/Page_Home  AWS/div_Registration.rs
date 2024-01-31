@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Registration</name>
+   <tag></tag>
+   <elementGuidId>8fa9e898-798a-43fc-8342-23b8a59c6d5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[5]/main/div/aside/div/main/div[4]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a11f6209-2913-4dee-94a5-8566786d51a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center duration-200 cursor-pointer text-c-gray-400 bg-c-gray-700 hover:bg-c-gray-600 px-s10 py-s15 justify-between </value>
+      <webElementGuid>976d400a-a37d-415e-8a90-8f5ae27c7d71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Registration</value>
+      <webElementGuid>8b0f52f8-ffa8-46c1-ab6c-310499916d6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col w-full&quot;]/div[@class=&quot;flex flex-col w-full&quot;]/main[@class=&quot;flex&quot;]/div[@class=&quot;relative&quot;]/aside[@class=&quot;Sidebar_aside__UOHGl Sidebar_hideInMobile__NlErx&quot;]/div[@class=&quot;Sidebar_sidebarContainer__cv9HX sm:w-[230px]&quot;]/main[@class=&quot;pb-24 sm:pb-0&quot;]/div[@class=&quot;px-s15 relative flex flex-col w-full&quot;]/div[1]/div[@class=&quot;flex items-center duration-200 cursor-pointer text-c-gray-400 bg-c-gray-700 hover:bg-c-gray-600 px-s10 py-s15 justify-between&quot;]</value>
+      <webElementGuid>2fc895bd-1042-4e04-b7b5-e6d11314b50f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[5]/main/div/aside/div/main/div[4]/div/div</value>
+      <webElementGuid>179136d0-7c9c-48ab-9624-c9bffc9b8085</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div</value>
+      <webElementGuid>756c4fdf-2ef5-498a-b293-50833ade5cdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Registration' or . = 'Registration')]</value>
+      <webElementGuid>853444d9-29b5-4690-a568-24efbd8e03be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Skip (only for testing)</name>
+   <tag></tag>
+   <elementGuidId>c67598b0-422d-421d-b1e4-cbdcb19b6454</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>27b29a87-ba3e-4b2b-b82a-2a827ab5bcb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>00d60c95-d7a9-4973-b372-6230e0253b67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Button_root__0RbKd Button_unstyled__ze+oA</value>
+      <webElementGuid>335f74fc-35eb-4dcb-8aff-de6bbe48af7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Skip (only for testing)</value>
+      <webElementGuid>bf6e6949-c36f-468e-9f72-bcb5fd933b29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col w-full&quot;]/div[@class=&quot;flex flex-col w-full&quot;]/main[@class=&quot;flex&quot;]/div[@class=&quot;mt-s60 w-full duration-200 transition-all px-2 sm:px-8 pb-8&quot;]/div[@class=&quot;flex flex-col w-full LoginPage_root__Hx32F&quot;]/form[1]/div[@class=&quot;flex flex-col w-full&quot;]/div[@class=&quot;underline text-white w-fit&quot;]/button[@class=&quot;Button_root__0RbKd Button_unstyled__ze+oA&quot;]</value>
+      <webElementGuid>81665a64-9144-45e7-bb43-e5f3b22b9aed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>3efca081-2e25-4ae7-9aad-ff038536620e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[5]/main/div/div/form/div/div[3]/button</value>
+      <webElementGuid>2c186cbc-3fd3-423b-b182-8a80cf062b15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>a3cc5060-6deb-4bf5-9941-ef628e48454a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Skip (only for testing)' or . = 'Skip (only for testing)')]</value>
+      <webElementGuid>63e9eaec-929e-42a7-8ec6-e6577da9749b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

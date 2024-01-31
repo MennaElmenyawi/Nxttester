@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_All Users</name>
+   <tag></tag>
+   <elementGuidId>7fc268c6-f74a-4457-bd46-d9a4ce08d7c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[5]/main/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6b7521b4-ba3e-450f-9cfa-665ec9db4e9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-col w-full bg-c-gray-700 p-s15 pb-s25 h-[150px] justify-between</value>
+      <webElementGuid>6bfdc458-fc96-418a-98fd-204fbee6cfae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3b3a744b-539c-4093-a9fd-7e03bc5bc981</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All Users</value>
+      <webElementGuid>92fee678-c872-4a23-b932-a653f992f1db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col w-full&quot;]/div[@class=&quot;flex flex-col w-full&quot;]/main[@class=&quot;flex&quot;]/div[@class=&quot;mt-s60 w-full duration-200 transition-all ml-auto content-width-minus-sidebar px-2 sm:px-8 pb-8&quot;]/div[1]/div[@class=&quot;grid gap-1 mb-4 lg:grid-cols-4 grid-cols-1 sm:grid-cols-2 md:grid-cols-3&quot;]/div[@class=&quot;flex flex-col w-full bg-c-gray-700 p-s15 pb-s25 h-[150px] justify-between&quot;]</value>
+      <webElementGuid>79425cdc-db02-41af-bb96-529e3fc92774</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[5]/main/div[2]/div/div/div</value>
+      <webElementGuid>67eba15f-c5af-497f-96c8-07ecf1b83a74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div[2]/div/div/div</value>
+      <webElementGuid>5ce06309-60f5-41a4-b3d4-b246a876f5cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'All Users' or . = 'All Users')]</value>
+      <webElementGuid>810f2555-9c62-4ebc-a052-6a1f67c5c842</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

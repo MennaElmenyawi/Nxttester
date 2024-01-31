@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add User</name>
+   <tag></tag>
+   <elementGuidId>c04a5487-94e8-4628-839f-9ab3ca5b810e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[5]/main/div[2]/div/section/div[2]/div/div[6]/a/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>53f6af56-4b86-4293-a1b9-776682155d4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Text_root__M6tno hidden lg:inline-block text-base transition-opacity visible opacity-100 duration-700</value>
+      <webElementGuid>9da4ddc3-5a67-4c87-a4a7-72bda1db1b31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add User</value>
+      <webElementGuid>2ddfc96f-5b63-4e83-b5b3-5235cfaa5550</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col w-full&quot;]/div[@class=&quot;flex flex-col w-full&quot;]/main[@class=&quot;flex&quot;]/div[@class=&quot;mt-s60 w-full duration-200 transition-all ml-auto content-width-minus-sidebar px-2 sm:px-8 pb-8&quot;]/div[1]/section[@class=&quot;PageHeader_root__FRduB&quot;]/div[@class=&quot;h-full flex items-start&quot;]/div[@class=&quot;flex items-center space-x-2&quot;]/div[@class=&quot;duration-300 transition lg:w-32 h-full sm:h-[44px]&quot;]/a[@class=&quot;Button_linkItem__9cKpC Button_root__0RbKd Button_primary__NGIIN Button_large__Xoms8&quot;]/div[@class=&quot;flex items-center space-x-2 py-1&quot;]/span[@class=&quot;Text_root__M6tno hidden lg:inline-block text-base transition-opacity visible opacity-100 duration-700&quot;]</value>
+      <webElementGuid>6461522f-73be-431a-972a-4265ee4e8fae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[5]/main/div[2]/div/section/div[2]/div/div[6]/a/div/span</value>
+      <webElementGuid>30211363-5c2a-4a08-b009-7b395c9ea55e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/span</value>
+      <webElementGuid>2f02f714-ce50-4137-8246-bacad9071985</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Add User' or . = 'Add User')]</value>
+      <webElementGuid>7b375a71-e95b-4dc4-b87b-1b5e9069c0de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

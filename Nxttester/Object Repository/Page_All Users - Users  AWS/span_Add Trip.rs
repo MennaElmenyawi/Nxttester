@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add Trip</name>
+   <tag></tag>
+   <elementGuidId>b6d6dfed-6b40-4713-ae24-6c39bd0ef657</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.Text_root__M6tno.font-medium</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//td[@id='col-4']/div/div/button/div/span)[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>abfd914f-98be-41bb-8918-359ef583a7f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Text_root__M6tno font-medium</value>
+      <webElementGuid>47ffde06-433f-4f91-947b-22e0f256bf69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Trip</value>
+      <webElementGuid>52b1cf48-6762-4a20-8230-35f85c7f15ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex flex-col w-full&quot;]/div[@class=&quot;flex flex-col w-full&quot;]/main[@class=&quot;flex&quot;]/div[@class=&quot;mt-s60 w-full duration-200 transition-all ml-auto content-width-minus-sidebar px-2 sm:px-8 pb-8&quot;]/div[1]/div[@class=&quot;flex flex-col w-full&quot;]/ul[@class=&quot;flex flex-col min-w-full space-y-8 max-w-fit py-5&quot;]/li[@class=&quot;flex flex-col w-full&quot;]/div[@class=&quot;overflow-auto h-full w-full&quot;]/table[@class=&quot;min-w-full font-medium text-white text-center&quot;]/tbody[1]/tr[@class=&quot;bg-secondary h-20&quot;]/td[@id=&quot;col-4&quot;]/div[@class=&quot;flex  justify-center&quot;]/div[@class=&quot;border-2 border-primary bg-primary p-2 pb-2.5&quot;]/button[@class=&quot;Button_root__0RbKd Button_unstyled__ze+oA&quot;]/div[@class=&quot;pl-3 pr-7&quot;]/span[@class=&quot;Text_root__M6tno font-medium&quot;]</value>
+      <webElementGuid>6c8652ae-1cf7-4d54-aa13-2b642a2a1e9f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//td[@id='col-4']/div/div/button/div/span)[5]</value>
+      <webElementGuid>ee231f6c-864f-4b5e-b198-4aaa01e3cfd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[4]/div/div/button/div/span</value>
+      <webElementGuid>8233056e-4dc8-494f-b6f4-561b5d0dcea3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Add Trip' or . = 'Add Trip')]</value>
+      <webElementGuid>8e661e08-2c50-4637-9641-7aa10f29f14f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
